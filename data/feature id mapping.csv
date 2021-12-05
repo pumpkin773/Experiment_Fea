@@ -1,0 +1,124 @@
+id in the program,id in the paper,name in paper
+55,1,file name
+54,2,package name
+53,3,project name
+26,4,file type
+97,5,SA tool name
+98,6,location warnings for tool
+99,7,file warnings for tool
+100,8,project warnings for tool
+,,
+74,9,latest file modification
+146,10,latest package modification
+147,11,latest project modification
+83,12,file staleness
+84,13,package staleness
+85,14,project staleness
+25,15,file age
+72,16,file creation revision
+73,17,file deletion revision
+71,18,developers
+,,
+62,19,method size
+102,20,file size
+64,21,package size
+103,22,comment length
+104,23,comment-code ratio
+105,24,method depth
+101,25,file depth
+107,26,method callers
+108,27,method callees
+65,28,methods in package
+66,29,methods in package
+67,30,classes in file
+68,31,classes in package
+34,32,indentation
+69,33,complexity
+,,
+35,34,added of lines of code in file during the past 3 months
+36,35,changed of lines of code in file during the past 3 months
+37,36,deleted of lines of code in file during the past 3 months
+38,37,growth of lines of code in file during the past 3 months
+39,38,total of lines of code in file during the past 3 months
+40,39,percentage of lines of code in file during the past 3 months
+126,40,added of lines of code in file during the past  25 revisions
+127,41,changed of lines of code in file during the past 25 revisions
+128,42,deleted of lines of code in file during the past 25 revisions
+129,43,growth of lines of code in file during the past 25 revisions
+130,44,total of lines of code in file during the past 25 revisions
+131,45,percentage of lines of code in file during the past 25 revisions
+41,46,added of lines of code in package during the past 3 months
+42,47,changed of lines of code in package during the past 3 months
+43,48,deleted of lines of code in package during the past 3 months
+44,49,growth of lines of code in package during the past 3 months
+45,50,total of lines of code in package during the past 3 months
+46,51,percentage of lines of code in package during the past 3 months
+132,52,added of lines of code in package during the past  25 revisions
+133,53,changed of lines of code in package during the past 25 revisions
+134,54,deleted of lines of code in package during the past 25 revisions
+135,55,growth of lines of code in package during the past 25 revisions
+136,56,total of lines of code in package during the past 25 revisions
+137,57,percentage of lines of code in package during the past 25 revisions
+47,58,added of lines of code in project during the past 3 months
+48,59,changed of lines of code in project during the past 3 months
+49,60,deleted of lines of code in package during the past 3 months
+50,61,growth of lines of code in project during the past 3 months
+51,62,total of lines of code in project during the past 3 months
+52,63,percentage of lines of code in project during the past 3 months
+138,64,added of lines of code in project during the past  25 revisions
+139,65,changed of lines of code in project during the past 25 revisions
+140,66,deleted of lines of code in project during the past 25 revisions
+141,67,growth of lines of code in project during the past 25 revisions
+142,68,total of lines of code in project during the past 25 revisions
+143,69,percentage of lines of code in project during the past 25 revisions
+,,
+1,70,call name
+2,71,class
+3,72,parameter signature
+4,73,return type
+5,74,new type
+6,75,new concrete type
+7,76,operator
+8,77,field access class
+9,78,field access field
+10,79,catch
+11,80,field name
+12,81,field type
+13,82,field visibility
+14,83,field is static/final 
+15,84,method visibility
+16,85,method return type
+17,86,method is static/final/abstract/protected
+18,87,class visibility
+19,88,class is abstract/interfact/array
+,,
+20,89,warning pattern
+21,90,warning type
+22,91,warning priority
+23,92,warning rank
+24,93,warning range (Google warning descriptors)
+170,94,warnings in method
+95,95,warnings in file
+94,96,warnings in package
+,,
+61,97,warning modifications
+70,98,warning open revision
+77,99,warning lifetime by revision
+88,100,warning lifetime by time
+89,101,developer idea
+,,
+109,102,size context for a warning type
+113,103,size context in method
+112,104,size context in file
+111,105,size context in package
+110,106,warning context for warning type
+116,107（在方法中的警告上下文）,warning context in method
+115,108（在文件中的警告上下文）,warning context in file
+114,109,warning context in package
+121,110,fix change removal rate
+122,111,non-fix change removal rate
+117,112（警告模式的缺陷可能性）,defect likelihood for warning pattern
+118,113,variance of likelihood
+119,114,defect likelihood for warning type
+120,115（缺陷可能性的离散化）,discretization of defect likelihood
+123,116（警告类型的平均生命周期）,average lifetime for warning type
